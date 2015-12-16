@@ -1,5 +1,5 @@
 {
-  "name": "hacking-the-kernel-ui",
+  "name": "ksx-matrix-ui",
   "theme": "ui",
   "version": "1.2.0",
   "description": "A dark UI theme for your late-night coding sessions...",
@@ -11,7 +11,7 @@
     "matrix"
   ],
   "license": "MIT",
-  "repository": "https://github.com/heisian/hacking-the-kernel-ui",
+  "repository": "https://github.com/ksxatompackages/ksx-matrix-ui.git",
   "engines": {
     "atom": ">0.40.0"
   }
