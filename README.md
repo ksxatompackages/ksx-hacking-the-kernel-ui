@@ -5,4 +5,4 @@ A fork of [hacking-the-kernel-ui](https://github.com/heisian/hacking-the-kernel-
 Get the matching syntax theme [here](https://atom.io/themes/hacking-the-kernel).
 
 ## Preview
-![A screenshot of your theme](./screenshot.png)
+![screenshot](https://github.com/ksxatompackages/ksx-matrix-ui/blob/master/screenshot.png)
