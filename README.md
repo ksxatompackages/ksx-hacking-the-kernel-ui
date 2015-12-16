@@ -1,8 +1,6 @@
-# Hacking the Kernel Atom UI Theme
+# Atom Matrix UI
 
-A black & green theme for your late-night coding sessions...
-
-Satiate your old-school CRT nostalgia!
+A fork of [hacking-the-kernel-ui](https://github.com/heisian/hacking-the-kernel-ui) with some tweaks.
 
 Get the matching syntax theme [here](https://atom.io/themes/hacking-the-kernel).
 
