@@ -1,4 +1,4 @@
-# Matrix UI
+# KSX Matrix UI
 
 A fork of [hacking-the-kernel-ui](https://github.com/heisian/hacking-the-kernel-ui) with some tweaks.
 
