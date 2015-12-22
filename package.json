@@ -1,18 +1,18 @@
 {
-	"name": "ksx-matrix-ui",
-	"theme": "ui",
-	"version": "1.2.6",
-	"description": "A dark UI theme for your late-night coding sessions...",
-	"keywords": [
-		"ui",
-		"theme",
-		"dark",
-		"green",
-		"matrix"
-	],
-	"license": "MIT",
-	"repository": "https://github.com/ksxatompackages/ksx-matrix-ui.git",
-	"engines": {
-		"atom": ">0.40.0"
-	}
+  "name": "ksx-matrix-ui",
+  "theme": "ui",
+  "version": "1.2.7",
+  "description": "A dark UI theme for your late-night coding sessions...",
+  "keywords": [
+    "ui",
+    "theme",
+    "dark",
+    "green",
+    "matrix"
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/ksxatompackages/ksx-matrix-ui.git",
+  "engines": {
+    "atom": ">0.40.0"
+  }
 }
